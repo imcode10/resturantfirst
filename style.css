@@ -26,7 +26,7 @@ html{
 
 }
 
-@media (min-width :320px) {
+@media (min-width :300px) {
     .col-sm-1{
         width: 8.33%;
 
